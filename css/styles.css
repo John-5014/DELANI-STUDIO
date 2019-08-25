@@ -58,3 +58,8 @@ p {
 .row {
   padding-top: 3%;
 }
+.portfolio {
+  text-align: center;
+  justify-content: space-around;
+  margin-top: 5%;
+}
