@@ -63,3 +63,75 @@ p {
   justify-content: space-around;
   margin-top: 5%;
 }
+.contact {
+  background-image: url("../images/backgrounds/c_image.jpg");
+  text-align: center;
+  margin-top: 5%;
+  background-size: cover;
+  color: white;
+}
+
+.form-inline {
+  padding-left: 30%;
+}
+
+.write {
+  padding-top: 50%;
+  color: wheat;
+  font-size: x-large;
+  font-weight: 800;
+}
+
+#row {
+  text-align: center;
+}
+
+.delani {
+  text-align: center;
+}
+
+.p1,
+.p2,
+.p3 {
+  display: none;
+}
+
+#display {
+  border: 2px grey;
+  display: none;
+}
+
+.line {
+  background-color: rgba(250, 250, 250, 0.6);
+  width: 100%;
+  height: 200%;
+  position: absolute;
+  margin-top: -84%;
+  opacity: 0;
+  text-align: center;
+}
+
+.line{
+  margin-top: -90%;
+}
+
+#hoVer {
+  margin: 10px 0;
+  position: relative;
+  overflow: hidden;
+}
+
+#hoVer:hover img {
+  transform: scale(1.2);
+  transition: all 0.8s ease;
+}
+
+overlay {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: transparent;
+  cursor: pointer;
+
+  transition: all 0.5s ease;
+}
