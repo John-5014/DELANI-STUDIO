@@ -21,3 +21,14 @@ h6 {
 p {
   font-family: "Kaushan", "Script";
 }
+#logo {
+  display: block;
+  float: right;
+  padding-left: 50%;
+  background-color: grey;
+  place-content: center;
+}
+
+#first {
+  clear: both;
+}
