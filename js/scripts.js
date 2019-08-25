@@ -2,7 +2,7 @@
 $(document).ready(function() {
   $("#des").click(function() {
    $('.img1').slideToggle(2800);
-    $(".p1").slideToggle();
+    $(".p1").slideToggle(2800);
   });
   $("#dev").click(function() {
     $(".p2, .img2").slideToggle(2800);
