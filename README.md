@@ -1,6 +1,6 @@
 # My third IP website
 This is my third IP on Delani studio with inclusive javascript content and jQuery aspects
-#### By **John *Karanja N.*
+#### By  John *Karanja N.*
 ## Description
 This website clearly defines a studio site and its interaction with the user.
 ## Steps to visit the Websites
@@ -11,7 +11,7 @@ This website clearly defines a studio site and its interaction with the user.
 * https://john-5014.github.io/delani-studio/
 
 
-##Bugs Known
+## Bugs Known
 
 The site had problems running some images moreso on the home images.
 ## Technologies/Languages Used
