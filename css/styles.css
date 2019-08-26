@@ -154,3 +154,13 @@ overlay {
     transform: translateY(-45px);
   }
 }
+.img{
+  margin-top: 20%;
+}
+.card-body{
+  padding: 3px;
+  margin: 3px;
+}
+.text{
+  padding: 30px;
+}
