@@ -8,10 +8,12 @@ This website clearly defines a studio site and its interaction with the user.
 * An active internet
 * A computer or network access device
 * link to the website or the url
+* https://john-5014.github.io/delani-studio/
 
 
-##Bugs
-The site had problems running some images but it was corrected.
+##Bugs Known
+
+The site had problems running some images moreso on the home images.
 ## Technologies/Languages Used
 html-create and develop the actual webpage content
 css - Extensively used inorder to customize and restyle the webpages as a whole.
