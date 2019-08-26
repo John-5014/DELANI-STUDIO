@@ -38,17 +38,20 @@ function() {
 
 
 
-  $("input").click(function(event) {
+  $("#submit").click(function(event){
+    var userName=$("#name").val();
+    var userEmail=$("#email").val();
+    var userMessage=$("#comments").val();
+/** user logic interface */
+    if((userName!=="") && (userEmail !== "") && (userMessage !="")){
+        alert(userName + " ,We have received your message.Thank you for reaching out to us");
+    }
+    else 
+    {
+        alert("Fill the form please");
+    }
     event.preventDefault();
-    var user = document.getElementById('input1').value;
-    alert(user + "Hi! we've received your message, thank you for getting in touch with us");
-    
-
-
-
-  });
-
-
+});
 
 });
 
