@@ -1,13 +1,8 @@
 .head {
-  background-image: url("../assets/backgrounds/h_img.jpg");
-  height:auto;
+  height: auto;
   color: white;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: 100% 100%;
   text-align: center;
-  background-size: cover;
-  
+
 }
 h1,
 h2,
@@ -21,16 +16,20 @@ h6 {
 p {
   font-family: "Kaushan", "Script";
 }
-#logo {
+/* #logo {
   display: block;
   float: right;
   padding-left: 50%;
   background-color: grey;
   place-content: center;
-}
+} */
 
 #first {
   clear: both;
+  background-image: url("../assets/backgrounds/h_img.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .info {
   text-align: center;
@@ -111,7 +110,7 @@ p {
   text-align: center;
 }
 
-.line{
+.line {
   margin-top: -90%;
 }
 
